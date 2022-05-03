@@ -1,0 +1,15 @@
+{
+  "name": "command-line-parsing",
+  "version": "o.0.1",
+  "description": "实现命令行解析功能 TDD思想",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.10.2"
+  }
+}
